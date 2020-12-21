@@ -1,0 +1,909 @@
+/* SIGN UP NOW */
+
+.sign{
+position: absolute;
+width: 444.14px;
+height: 31.22px;
+left: 1157.02px;
+top: 96.22px;
+
+font-family: Poppins;
+font-style: italic;
+font-weight: 800;
+font-size: 20px;
+line-height: 121.5%;
+/* or 24px */
+text-align: center;
+
+color: #E1E1E1;
+
+}
+
+/* Group 3 */
+
+.group3{
+
+position: absolute;
+width: 780.02px;
+height: 976.46px;
+left: 1157.02px;
+top: 29.54px;
+
+}
+
+/* Rectangle 2 */
+
+.rectangle2{
+
+position: absolute;
+width: 635.62px;
+height: 976.46px;
+left: 1213.48px;
+top: 29.54px;
+
+background: rgba(22, 0, 75, 0.25);
+border-radius: 10px;
+
+}
+
+/* Rectangle 1 */
+
+.rectangle1{
+
+position: absolute;
+width: 596.3px;
+height: 938.6px;
+left: 1233.7px;
+top: 51.4px;
+
+background: #16004B;
+border-radius: 10px;
+
+}
+/* To Start Your Free Sales Trial */
+
+.freesales{
+
+position: absolute;
+width: 444.14px;
+height: 31.22px;
+left: 1385.72px;
+top: 101.83px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 27px;
+text-align: center;
+letter-spacing: 0.095em;
+
+color: #E1E1E1;
+
+}
+/* Group 15 */
+
+.group15{
+
+position: absolute;
+width: 238.65px;
+height: 76.14px;
+left: 1269.23px;
+top: 197.78px;
+
+}
+
+/* Rectangle 7 */
+
+.rectangle7{
+
+position: absolute;
+width: 237.79px;
+height: 46.82px;
+left: 1270.09px;
+top: 227.1px;
+
+border: 0.5px solid #616161;
+box-sizing: border-box;
+border-radius: 5px;
+}
+
+/* First Name */
+
+.fristname{
+
+position: absolute;
+width: 98.57px;
+height: 17.25px;
+left: 1269.23px;
+top: 197.78px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 300;
+font-size: 15px;
+line-height: 22px;
+
+color: #E5DBFF;
+
+}
+
+/* Enter Your First Name... */
+
+.enterfirstname{
+
+
+position: absolute;
+width: 190.61px;
+height: 17.25px;
+left: 1290.42px;
+top: 238.44px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 300;
+font-size: 15px;
+line-height: 22px;
+
+color: #828282;
+
+}
+
+/* Group 13 */
+
+.group13{
+
+position: absolute;
+width: 238.65px;
+height: 76.14px;
+left: 1269.23px;
+top: 297.91px;
+
+}
+
+/* Rectangle 9 */
+
+.rectangle9{
+
+
+position: absolute;
+width: 237.79px;
+height: 46.82px;
+left: 1270.09px;
+top: 327.24px;
+
+border: 0.5px solid #616161;
+box-sizing: border-box;
+border-radius: 5px;
+
+}
+
+/* Work Email */
+
+.workemail{
+
+
+position: absolute;
+width: 98.57px;
+height: 17.25px;
+left: 1269.23px;
+top: 297.91px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 300;
+font-size: 15px;
+line-height: 22px;
+
+color: #E5DBFF;
+
+}
+
+/* name@zyz.com... */
+
+.name{
+
+position: absolute;
+width: 190.61px;
+height: 17.25px;
+left: 1290.42px;
+top: 338.57px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 300;
+font-size: 15px;
+line-height: 22px;
+
+color: #828282;
+
+}
+
+/* Group 18 */
+
+.group18{
+
+position: absolute;
+width: 238.65px;
+height: 76.14px;
+left: 1269.23px;
+top: 626.91px;
+
+}
+
+/* Rectangle 9 */
+
+.rectangle90{
+
+position: absolute;
+width: 237.79px;
+height: 46.82px;
+left: 1270.09px;
+top: 656.23px;
+
+border: 0.5px solid #616161;
+box-sizing: border-box;
+border-radius: 5px;
+
+}
+/* CTI Vendor */
+
+.vendor{
+
+position: absolute;
+width: 98.57px;
+height: 17.25px;
+left: 1269.23px;
+top: 626.91px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 300;
+font-size: 15px;
+line-height: 22px;
+
+color: #E5DBFF;
+
+}
+
+/* CTI Vendor */
+
+.vendor1{
+
+position: absolute;
+width: 190.61px;
+height: 17.25px;
+left: 1290.42px;
+top: 667.57px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 300;
+font-size: 15px;
+line-height: 22px;
+
+color: #828282;
+
+}
+
+/* Group 12 */
+
+.group12{
+
+position: absolute;
+width: 511.46px;
+height: 76.14px;
+left: 1269.23px;
+top: 406.05px;
+}
+
+
+/* Rectangle 11 */
+
+.rectangle11{
+
+
+position: absolute;
+width: 510.61px;
+height: 46.82px;
+left: 1270.09px;
+top: 435.37px;
+
+border: 0.5px solid #616161;
+box-sizing: border-box;
+border-radius: 5px;
+
+}
+
+/* Company */
+
+.company{
+
+position: absolute;
+width: 98.57px;
+height: 17.25px;
+left: 1269.23px;
+top: 406.05px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 300;
+font-size: 15px;
+line-height: 22px;
+
+color: #E5DBFF;
+}
+
+
+/* Enter Your Company Name */
+
+.companyname{
+
+position: absolute;
+width: 209.33px;
+height: 17.25px;
+left: 1290.42px;
+top: 446.71px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 300;
+font-size: 15px;
+line-height: 22px;
+
+color: #828282;
+
+}
+
+/* Group 9 */
+
+.group9{
+
+position: absolute;
+width: 394.99px;
+height: 76.14px;
+left: 1269.23px;
+top: 725.32px;
+}
+
+
+/* Rectangle 13 */
+
+.rectangle13{
+    
+position: absolute;
+width: 237.79px;
+height: 46.82px;
+left: 1270.09px;
+top: 754.65px;
+
+border: 0.5px solid #616161;
+box-sizing: border-box;
+border-radius: 5px;
+
+
+/* Phone Number */
+
+position: absolute;
+width: 146.91px;
+height: 17.25px;
+left: 1269.23px;
+top: 725.32px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 300;
+font-size: 15px;
+line-height: 22px;
+
+color: #E5DBFF;
+
+
+
+/* 9xxxxxxxx */
+
+position: absolute;
+width: 373.8px;
+height: 17.25px;
+left: 1290.42px;
+top: 765.98px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 300;
+font-size: 15px;
+line-height: 22px;
+
+color: #828282;
+
+
+
+/* Group 14 */
+
+position: absolute;
+width: 238.65px;
+height: 76.14px;
+left: 1542.05px;
+top: 297.91px;
+
+
+
+/* Rectangle 10 */
+
+position: absolute;
+width: 237.79px;
+height: 46.82px;
+left: 1542.91px;
+top: 327.24px;
+
+border: 0.5px solid #616161;
+box-sizing: border-box;
+border-radius: 5px;
+
+
+/* Job Title */
+
+position: absolute;
+width: 98.57px;
+height: 17.25px;
+left: 1542.05px;
+top: 297.91px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 300;
+font-size: 15px;
+line-height: 22px;
+
+color: #E5DBFF;
+
+
+
+/* Select Your Job Title */
+
+position: absolute;
+width: 190.61px;
+height: 17.25px;
+left: 1563.23px;
+top: 338.57px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 300;
+font-size: 15px;
+line-height: 22px;
+
+color: #828282;
+
+
+
+/* down-arrow (2) 1 */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 1744.26px;
+top: 338.65px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 3.15%;
+right: 3.1%;
+top: 3.15%;
+bottom: 3.1%;
+
+background: #CDC5E2;
+
+
+/* Vector */
+
+position: absolute;
+left: 25.02%;
+right: 24.98%;
+top: 39.09%;
+bottom: 34.35%;
+
+background: #CDC5E2;
+
+
+/* Group 11 */
+
+position: absolute;
+width: 511.46px;
+height: 76.14px;
+left: 1269.23px;
+top: 519.19px;
+
+
+
+/* Rectangle 12 */
+
+position: absolute;
+width: 510.61px;
+height: 46.82px;
+left: 1270.09px;
+top: 548.51px;
+
+border: 0.5px solid #616161;
+box-sizing: border-box;
+border-radius: 5px;
+
+
+/* No. Of Employees */
+
+position: absolute;
+width: 146.91px;
+height: 17.25px;
+left: 1269.23px;
+top: 519.19px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 300;
+font-size: 15px;
+line-height: 22px;
+
+color: #E5DBFF;
+
+
+
+/* Select No. Of Employees In Your Company */
+
+position: absolute;
+width: 373.8px;
+height: 17.25px;
+left: 1290.42px;
+top: 559.85px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 300;
+font-size: 15px;
+line-height: 22px;
+
+color: #828282;
+
+
+
+/* down-arrow (2) 2 */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 1745px;
+top: 559.92px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 3.15%;
+right: 3.1%;
+top: 3.15%;
+bottom: 3.1%;
+
+background: #CDC5E2;
+
+
+/* Vector */
+
+position: absolute;
+left: 25.02%;
+right: 24.98%;
+top: 39.09%;
+bottom: 34.35%;
+
+background: #CDC5E2;
+
+
+/* Group 10 */
+
+position: absolute;
+width: 394.99px;
+height: 76.14px;
+left: 1542.05px;
+top: 725.32px;
+
+
+
+/* Rectangle 14 */
+
+position: absolute;
+width: 237.79px;
+height: 46.82px;
+left: 1542.91px;
+top: 754.65px;
+
+border: 0.5px solid #616161;
+box-sizing: border-box;
+border-radius: 5px;
+
+
+/* Country */
+
+position: absolute;
+width: 146.91px;
+height: 17.25px;
+left: 1542.05px;
+top: 725.32px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 300;
+font-size: 15px;
+line-height: 22px;
+
+color: #E5DBFF;
+
+
+
+/* Select Your Country */
+
+position: absolute;
+width: 373.8px;
+height: 17.25px;
+left: 1563.23px;
+top: 765.98px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 300;
+font-size: 15px;
+line-height: 22px;
+
+color: #828282;
+
+
+
+/* down-arrow (2) 3 */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 1745px;
+top: 765.7px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 3.15%;
+right: 3.1%;
+top: 3.15%;
+bottom: 3.1%;
+
+background: #CDC5E2;
+
+
+/* Vector */
+
+position: absolute;
+left: 25.02%;
+right: 24.98%;
+top: 39.09%;
+bottom: 34.35%;
+
+background: #CDC5E2;
+
+
+/* Group 16 */
+
+position: absolute;
+width: 238.65px;
+height: 76.14px;
+left: 1541.19px;
+top: 197.78px;
+
+
+
+/* Rectangle 8 */
+
+position: absolute;
+width: 237.79px;
+height: 46.82px;
+left: 1542.05px;
+top: 227.1px;
+
+border: 0.5px solid #616161;
+box-sizing: border-box;
+border-radius: 5px;
+
+
+/* Last Name */
+
+position: absolute;
+width: 98.57px;
+height: 17.25px;
+left: 1541.19px;
+top: 197.78px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 300;
+font-size: 15px;
+line-height: 22px;
+
+color: #E5DBFF;
+
+
+
+/* Enter Your Last Name... */
+
+position: absolute;
+width: 190.61px;
+height: 17.25px;
+left: 1562.38px;
+top: 238.44px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 300;
+font-size: 15px;
+line-height: 22px;
+
+color: #828282;
+
+
+
+/* Group 17 */
+
+position: absolute;
+width: 418.87px;
+height: 29.57px;
+left: 1270.09px;
+top: 827.78px;
+
+
+
+/* I Agree To the Master Subscription Agreement. */
+
+position: absolute;
+width: 376.04px;
+height: 17.25px;
+left: 1312.92px;
+top: 831.47px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 300;
+font-size: 15px;
+line-height: 22px;
+
+color: #E5DBFF;
+
+
+
+/* Rectangle 15 */
+
+position: absolute;
+width: 29.57px;
+height: 29.57px;
+left: 1270.09px;
+top: 827.78px;
+
+border: 1px solid #E5DBFF;
+box-sizing: border-box;
+border-radius: 5px;
+
+
+/* Group 7 */
+
+position: absolute;
+width: 507.21px;
+height: 46.85px;
+left: 1273.49px;
+top: 890.22px;
+
+
+
+/* Rectangle 16 */
+
+position: absolute;
+width: 507.21px;
+height: 46.85px;
+left: 1273.49px;
+top: 890.22px;
+
+background: #DF643A;
+border-radius: 5px;
+
+
+/* Start My Free Trial */
+
+position: absolute;
+width: 376.04px;
+height: 17.25px;
+left: 1337.95px;
+top: 899.96px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 27px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Frame */
+
+position: absolute;
+width: 103px;
+height: 107px;
+left: 1328.52px;
+top: 63.94px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 2.25%;
+right: 0%;
+top: 1.96%;
+bottom: 0.36%;
+
+background: #DF643B;
+
+
+/* Group */
+
+position: absolute;
+left: 0%;
+right: 1.77%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 1.77%;
+top: 0%;
+bottom: 0%;
+
+background: #1C1F2C;
+
+
+/* SIGN UP NOW */
+
+position: absolute;
+width: 444.14px;
+height: 31.22px;
+left: 1157.02px;
+top: 96.22px;
+
+font-family: Poppins;
+font-style: italic;
+font-weight: 800;
+font-size: 20px;
+line-height: 121.5%;
+/* or 24px */
+text-align: center;
+
+color: #E1E1E1;
+
+
+/* sign-up-BG 2 */
+
+.image{
+
+
+position: absolute;
+width: 1920px;
+height: 1024px;
+left: 0px;
+top: 0px;
+
+background: url(C:\Users\DELL\dynamic-form\src\assets\images\sign-up-BG2.png);
+
+}
